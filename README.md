@@ -1,5 +1,8 @@
-👋 Hi, I’m @dphamdata
+👋 About Me: 
 
+- CSULB Alumni - BA Human Development 
+- Passion for data, technology, and process improvement 
+- Industries: Aerospace, Health & Fitness, Education 
 
 👀 I’m interested in ...
 
@@ -17,10 +20,6 @@
 📊 Data Projects & Case Studies 
 
 - 
-
-
-💞️ I’m looking to collaborate on ...
-
 
 📫 Tableau 
 
