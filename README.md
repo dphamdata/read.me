@@ -3,7 +3,7 @@
 - CSULB Alumni - BA Human Development 
 - Passion for data, technology, and process improvement 
 - Industry Experience: Aerospace, Health & Fitness, E-commerce, Education 
-- Hobbies: Weight lifting, cooking, anime
+- Hobbies: Weight lifting, Cooking, Apple Enthusiast, Anime 
 
 
 🌱 Lifelong Learner
