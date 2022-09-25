@@ -21,7 +21,7 @@
 
 - [Tableau](https://www.udemy.com/certificate/UC-9502af0a-fbca-462f-a57d-1465fad9d593/) 
   
-  Skills learned: Data Visualization & Analysis, Dashboard Building, Storytelling with Data
+  Skills: Data Visualization & Analysis, Dashboard Building, Storytelling with Data
 
 - [Microsoft Excel]()
   
