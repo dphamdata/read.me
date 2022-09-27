@@ -13,7 +13,7 @@
 
 - [Comptia Data+ Data Analysis Certificate](https://www.credly.com/badges/a6105239-05de-4fa3-826e-00d75cfbe947?source=linked_in_profile)
   
-  - Mining data, 
+  - Mining data
   - Manipulating data
   - Visualizing and Reporting Data
   - Statistical Methods
