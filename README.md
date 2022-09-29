@@ -21,10 +21,9 @@
 
 - Structured Query Language: PostGreSQL & Google BigQuery
   - [Udemy - SQL Bootcamp](https://www.udemy.com/certificate/UC-251aa808-bac6-4bb0-8a7d-4894f72f319b/)
-  - [Kaggle - Into to SQL](https://www.kaggle.com/learn/intro-to-sql) 
-  - [Kaggle - Advanced SQl](https://www.kaggle.com/learn/advanced-sql) 
-  
-  Skills: Relational Database Querying, Data Analysis, Analytic Functions, Query Performance 
+
+  - Relational Database Querying
+  - Data Analysis
 
 - [Tableau](https://www.udemy.com/certificate/UC-9502af0a-fbca-462f-a57d-1465fad9d593/) 
   
