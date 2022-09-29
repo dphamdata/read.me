@@ -19,9 +19,8 @@
   - Statistical Methods
   - Data Quality Standards
 
-- Structured Query Language: PostGreSQL & Google BigQuery
-  - [Udemy - SQL Bootcamp](https://www.udemy.com/certificate/UC-251aa808-bac6-4bb0-8a7d-4894f72f319b/)
-
+- [Udemy - SQL Bootcamp](https://www.udemy.com/certificate/UC-251aa808-bac6-4bb0-8a7d-4894f72f319b/)
+  - PostGreSql
   - Relational Database Querying
   - Data Analysis
 
