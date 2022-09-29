@@ -31,24 +31,9 @@
   - Data Visualization & Analysis
   - Dashboard Building
   - Storytelling with Data
-
-- [Microsoft Excel](https://github.com/dphamdata/ExcelProject)
   
-  - Power Query
-  - Pivot Table
-  - Pivot Chart 
-  
-- [AS9100D Lead Internal Auditor Training](https://drive.google.com/file/d/1UUPg2Vh5LjG8hEGD0abN7ooJEw1tRkSI/view)
+ - [Power BI Fundamentals]()
 
-  - International Aerospace Standard (AS9100D)
-  - Internal Auditing
-  - Process Compliance
-
-- [User Experience Writing](https://drive.google.com/file/d/1CnD-kg_xEWKFSDryrhF_Xv4AKhOgUU7D/view)
-  
-  - Information Architecture
-  - Content Design
-  - Technical Communication
 
 📊 Data Projects  
 
