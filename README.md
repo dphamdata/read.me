@@ -24,7 +24,7 @@
   - Relational Database Querying
   - Data Analysis
 
-- [Tableau](https://www.udemy.com/certificate/UC-9502af0a-fbca-462f-a57d-1465fad9d593/) 
+- [Tableau](https://www.linkedin.com/learning/certificates/35814e5901be4d31340442678426d783f8c6ebb44e7e62d9511bfafda63c6935) 
   
   - Data Visualization & Analysis
   - Dashboard Building
