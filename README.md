@@ -33,8 +33,4 @@
  - [Power BI Fundamentals]()
 
 
-📊 Data Projects  
-
-- [My Tableau Public](https://public.tableau.com/app/profile/david.pham5201)
-
 
