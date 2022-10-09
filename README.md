@@ -31,6 +31,8 @@
   - Storytelling with Data
   
  - [Power BI Fundamentals](https://media-exp1.licdn.com/dms/document/C561FAQG5iO-4cOcACQ/feedshare-document-pdf-analyzed/0/1651797361506?e=1666224000&v=beta&t=sGMDe1XqrP3KclRAJp9XIWE4lmYe3IaKxg18tZgeSUY)
+  - Data Visualization 
+  - Power Query 
 
 
 
