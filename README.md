@@ -24,11 +24,8 @@
   - Relational Database Querying
   - Data Analysis
 
-- [Tableau](https://www.linkedin.com/learning/certificates/35814e5901be4d31340442678426d783f8c6ebb44e7e62d9511bfafda63c6935) 
-  
-  - Data Visualization & Analysis
-  - Dashboard Building
-  - Storytelling with Data
+- Tableau - (Data Visualization & Analysis, Dashboard Building, Storytelling with Data)
+  - [Tableau Fundamentals](https://verify.skilljar.com/c/pshfgpqi76fr)
   
  - [Power BI Fundamentals](https://media-exp1.licdn.com/dms/document/C561FAQG5iO-4cOcACQ/feedshare-document-pdf-analyzed/0/1651797361506?e=1666224000&v=beta&t=sGMDe1XqrP3KclRAJp9XIWE4lmYe3IaKxg18tZgeSUY)
     - Data Visualization 
